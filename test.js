@@ -1,2 +1,2 @@
-/* alert("fds")
-prompt("请输入名字") */
+ alert("fds")
+prompt("请输入名字") 
